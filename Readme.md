@@ -1,5 +1,7 @@
 # Mandelbrot Set
 
+![Mandelbrot Set](assets/Mandelbrot.png)
+
 This repository contains a Python implementation to graph and visualize the Mandelbrot Set, a famous fractal representing the set of complex numbers that remain bounded under iterative functions.
 
 ## What is the Mandelbrot Set?
